@@ -73,11 +73,10 @@ service:
     content: Easy to host conference panel, with all the actions delivered one-click.
       Invite speakers, manage tracks & lounges, manage chat.
     highlighted: true
-  - title: UX Design
+  - title: Attend
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: true
+    content: Join any event with just one-click
+    highlighted: false
   - title: Interaction Design
     icon: ti-panel
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
