@@ -27,7 +27,7 @@ description = "Frictionless experience to host and attend meetups & conferences 
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "/images/guby-sm.png"
+logo = "/images/guby-xs.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
