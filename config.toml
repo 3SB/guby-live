@@ -27,11 +27,11 @@ description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "https://hotemoji.com/images/emoji/2/37ye1q1ldkr72.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
