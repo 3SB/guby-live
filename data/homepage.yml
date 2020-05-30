@@ -73,10 +73,10 @@ service:
     content: Easy to host conference panel, with all the actions delivered one-click.
       Invite speakers, manage tracks & lounges, manage chat.
     highlighted: true
-  - title: Attend
+  - title: Repeat
     icon: ti-vector
-    content: Join any event with just one-click
-    highlighted: false
+    content: Manage recurring events with easy to use event management panel
+    highlighted: true
   - title: Interaction Design
     icon: ti-panel
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
