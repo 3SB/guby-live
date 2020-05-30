@@ -4,21 +4,27 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "guby | No 1 platform for remote-first meetups & conferences"
 [[menu.main]]
-URL = "about"
-name = "About"
+name = "Attend"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
+name = "Host"
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
+weight = 6
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
 weight = 5
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 4
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 3
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
