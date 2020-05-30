@@ -5,7 +5,10 @@ about:
   enable: true
   content: Video conference solutions do not do justice in delivering true meetup
     / conference experience. We wanted to fix this and ended up creating - guby, to
-    deliver true conference experience for remote-only era.
+    deliver true conference experience for remote-only era. Most events use VC applications
+    or steaming services to host events. Our experience from various events has been
+    that the main conference tracks are mostly 1:n while the larger event area is
+    for networking and lounges where magic happens!
   button:
     enable: false
     label: know more
