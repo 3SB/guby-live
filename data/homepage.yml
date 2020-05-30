@@ -3,11 +3,11 @@ banner:
   title: guby - remote first conferences & meetups
 about:
   enable: true
-  content: Video conference solutions do not do justice to deliver a true meetup /
-    conference experience. We wanted to fix this and ended up creating guby to deliver
-    true conference experience for remote-only era.
+  content: Video conference solutions do not do justice in delivering true meetup
+    / conference experience. We wanted to fix this and ended up creating - guby, to
+    deliver true conference experience for remote-only era.
   button:
-    enable: true
+    enable: false
     label: know more
     URL: about
 skill:
