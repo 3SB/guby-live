@@ -4,15 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "guby | No 1 platform for remote-first meetups & conferences"
 [[menu.main]]
-name = "Attend"
-weight = 2
-[[menu.main]]
-name = "Host"
-weight = 1
-[[menu.main]]
 URL = "about"
 name = "About"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
 weight = 3
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
@@ -21,7 +27,7 @@ description = "Frictionless experience to host and attend meetups & conferences 
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "https://hotemoji.com/images/emoji/2/37ye1q1ldkr72.png"
+logo = "/images/guby-sm.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
